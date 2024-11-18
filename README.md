@@ -42,7 +42,7 @@ Navigate to `localhost\WanderWorld`
 -----
 
 ## Ackonowledgement
-This project was done as a part of Internet and Web Programming Course of B.Tech Computer Science and Engineering Program at [Vellore Institute of Technology](https://vit.ac.in/)
+This project was done as a part of the Internet and Web Programming Course and submitted in partial completion of B.Tech Computer Science and Engineering at [Vellore Institute of Technology](https://vit.ac.in/)
 
 Made By Ishita Agarwal - 21BCE5317
 
